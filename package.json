@@ -1,0 +1,15 @@
+{
+  "name": "npmkit-plugins",
+  "private": true,
+  "description": "Set of plugins for npmkit app",
+  "repository": "sergeybekrin/npmkit-plugins.git",
+  "author": "Sergey Bekrin <sergey@bekrin.me>",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.4"
+  }
+}

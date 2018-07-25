@@ -1,0 +1,12 @@
+{
+  "name": "@npmkit/plugin-link",
+  "version": "1.0.0",
+  "description": "Local `yarn link` / `npm link` management",
+  "repository": "sergeybekrin/npmkit-plugins.git",
+  "author": "Sergey Bekrin <sergey@bekrin.me>",
+  "main": "./index.js",
+  "dependencies": {
+    "execa": "^0.10.0",
+    "fs-extra": "^7.0.0"
+  }
+}
